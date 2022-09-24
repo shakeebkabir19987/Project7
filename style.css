@@ -1,0 +1,334 @@
+
+.outerlogo{
+    width: 100%;
+    height: 90px;
+    border: 2px solid black;
+    /* background:rgba(255,255,255,0.95) !important; */
+    background-color: #FFF;
+}
+.logo{
+    width: 480px;
+    height: 80px;
+    padding-left: 110px;
+    padding-top: 5px;
+}
+.email{
+    margin-left: 570px;
+    padding-bottom: 8px;    
+}
+.fb{
+    margin-right: 0px;
+    padding-bottom: 8px;
+    padding-left: 20px;  
+}
+.login{
+    margin-right: 0px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+}
+#home{
+    padding-left: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#message{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#faculty{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#admission{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+ #admin{
+        padding-left: 20px;
+        font-size: 15px;
+        font-weight: bold;
+ }
+ #campuse{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#facultysearch{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#download{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#home a:hover {
+	background-color: red;
+}
+
+/* navbar ended */
+.belownav{
+    border: 2px solid black;
+    width: 100%;
+    height: 100px;
+    
+}
+#link{
+    height: 100px;
+    width: 130px;
+    border-radius: 0px;
+}
+#button{
+    border: 1px solid black;
+    height: 100px;
+    width: 230px;
+    border-radius: 0px;
+    margin-left: -5px;
+    font-weight: bold;
+}
+#conference{
+    border: 1px solid black;
+    height: 100px;
+    width: 230px;
+    border-radius: 0px;
+    margin-left: -5px;
+    font-weight: bold;
+}
+#flower{
+    border: 1px solid black;
+    height: 100px;
+    width: 230px;
+    border-radius: 0px;
+    margin-left: -5px;
+    font-weight: bold;
+}
+#senate{
+    border: 1px solid black;
+    height: 100px;
+    width: 230px;
+    border-radius: 0px;
+    margin-left: -5px;
+    font-weight: bold;
+}
+#last{
+    border: 1px solid black;
+    height: 99px;
+    width: 70px;
+    border-radius: 0px;
+    margin-left: -4px;
+}
+.card1{
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 350px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.card1head{
+    padding-top: 10px;
+    background-color: #2d548d;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.card2{
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 350px;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+.card2head{
+    padding-top: 10px;
+    background-color: #2d548d;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: 550px;
+    margin-top: -430px;
+}
+  
+.card3{
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 350px;
+    margin-left: 950px;
+    margin-top: 30px;
+}
+.card3head{
+    padding-top: 10px;
+    background-color: #2d548d;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: 950px;
+    margin-top: -430px;
+}
+
+/* part 2 card */
+
+.part2{
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 350px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.part2head{
+    padding-top: 10px;
+    background-color: #2d548d;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+/* card2 part2 start */
+.card22{
+    /* border: 2px solid red; */
+    width: 350px;
+    height: 350px;
+    margin-left: 395px;
+    margin-top: 30px;
+
+}
+.card2part2{
+    padding-top: 10px;
+    background-color: #2d548d;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: 395px;
+    margin-top: -427px;
+    /* margin-bottom: -5px; */
+}   
+
+/* card3 part2 start */
+
+.card32{
+    /* border: 2px solid red; */
+    width: 350px;
+    height: 325px;
+    margin-left: 400px;
+    margin-top: 35px;
+
+}
+.card3part2{
+     /* border: 2px solid red; */
+    padding-top: 10px;
+    background-color: #2d548d;
+    width: 350px;
+    height: 50px;
+    margin-left: 400px;
+    margin-top: -420px;
+    /* margin-bottom: -5px; */
+} 
+
+.heading{
+    position: absolute;
+            bottom: -1160px;
+            left: 250px;
+            color: blue;
+            font-weight: bold;
+}
+
+/* footer :start */
+
+/* part 3 card */
+
+.part3{
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 350px;
+    margin-left: -430px;
+    margin-top: 20px;
+}
+.part3head{
+    padding-top: 10px;
+    /* background-color: #2d548d; */
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: -430px;
+    margin-top: 40px;
+}
+
+/* card2 part3 start */
+.card23{
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 350px;
+    margin-left: 395px;
+    margin-top: 30px;
+
+}
+.card2part3{
+    padding-top: 10px;
+    /* background-color: #2d548d; */
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: 395px;
+    margin-top: -435px;
+    /* margin-bottom: -5px; */
+}   
+
+/* card3 part3 start */
+
+.card33{
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 350px;
+    margin-left: 400px;
+    margin-top: 35px;
+
+}
+.card3part3{
+    padding-top: 10px;
+    background-color: #2d548d;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 50px;
+    margin-left: 400px;
+    margin-top: -425px;
+    /* margin-bottom: -5px; */
+} 
+
+
+hr.new{
+    border: 2px solid black;
+   
+}
+
+/* last footer :start */
+.lfooter{
+    /* border: 2px solid black; */
+    width: 1348px;
+    height: 80px;
+    margin-left: -115px;
+    padding-top: 25px;
+    background-color: #14396f;
+    margin-top: 60px;
+}
+.lspan1{
+    padding-left: 50px;
+    color: white;
+   
+}
+.lspan2{
+    padding-left: 550px;
+    color: white;
+}
